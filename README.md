@@ -54,12 +54,21 @@ npm run ios
 # OR using Yarn
 yarn ios
 ```
-Attached Images
-![WhatsApp Image 2025-06-06 at 16 12 09_4c6c7e92](https://github.com/user-attachments/assets/67c39742-17d0-41a7-a3d7-4cfd876ac43e)
 
 
 
 ## Congratulations! :tada:
 
 You've successfully run this React Native App. :partying_face:
+
+
+## Attached Images
+![WhatsApp Image 2025-06-06 at 16 12 09_4c6c7e92](https://github.com/user-attachments/assets/67c39742-17d0-41a7-a3d7-4cfd876ac43e)
+![WhatsApp Image 2025-06-06 at 16 12 10_f59323b5](https://github.com/user-attachments/assets/1573a18a-6131-4322-b9fb-2f98d74002fc)
+![WhatsApp Image 2025-06-06 at 16 12 11_5673de08](https://github.com/user-attachments/assets/421924c4-bb20-499d-9009-fc4f6d9e2e2c)
+![WhatsApp Image 2025-06-06 at 16 12 11_dc6075f7](https://github.com/user-attachments/assets/6ae534f6-830d-43a8-8f63-183f97fb223d)
+
+
+
+
 
